@@ -1,11 +1,2 @@
-# Build a Portfolio
-I have build a responsive website that will display images. links and description.
-This is my first portfolio project.
-
-# Files Included
-
-* index.html
-* main.css in css folder
-* img folder
-* dist folder
-* package.json
+# Responsive Portfolio(traversy media Tutorial project)
+Thanks for checking out the code of my portfolio website! I based this on a tutorial authored by [Traversy Media](https://www.youtube.com/user/TechGuyWeb). Also found at [Brad Traversy: Github](https://github.com/bradtraversy). 
